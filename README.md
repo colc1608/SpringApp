@@ -1,6 +1,6 @@
 #Spring APP
 
-Aplication web
+Aplication web with Eclipse Mars 2
 
 Build Path
 	Apache Tomcat 7
